@@ -1,0 +1,31 @@
+# Ignore virtual environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Ignore node modules
+node_modules/
+
+# Ignore storage (uploads, outputs)
+storage/
+
+# Ignore logs
+*.log
+backend.log
+
+# Ignore documentation artifacts
+*.md
+!README.md
+
+# Ignore IDE/Editor files
+.idea/
+.vscode/
+*.swp
+
+# Ignore build outputs (keep source)
+frontend/dist/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
