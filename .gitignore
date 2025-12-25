@@ -16,8 +16,8 @@ storage/
 backend.log
 
 # Ignore documentation artifacts (user requested)
-*.md
-!README.md
+
+
 
 # Ignore IDE/Editor files
 .idea/
